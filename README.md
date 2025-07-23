@@ -1,2 +1,4 @@
-# my-roadtrip-adventure-public
-The public-facing repository for the My Roadtrip Adventure app.
+# My Roadtrip Adventure
+This is the public-facing repository for the My Roadtrip Adventure app.
+
+[Privacy Policy](https://joshmccullough.github.io/my-roadtrip-adventure-public/PRIVACY.md)
